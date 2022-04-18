@@ -1,0 +1,22 @@
+{
+  "name": "quadflame-bot",
+  "version": "0.1.0",
+  "description": "Bot for quadflame server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "discord-bot",
+    "quadflame",
+    "quad_flamae",
+    "mc.quadflame.com"
+  ],
+  "author": "hi12167pies",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0"
+  }
+}
